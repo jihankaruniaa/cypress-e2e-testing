@@ -1,0 +1,6 @@
+node_modules
+.env
+dist
+build
+cypress/videos
+cypress/screenshots
