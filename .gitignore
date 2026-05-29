@@ -4,3 +4,4 @@ dist
 build
 cypress/videos
 cypress/screenshots
+cypress/e2e/Utamatech
